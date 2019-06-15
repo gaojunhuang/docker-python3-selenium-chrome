@@ -4,6 +4,7 @@ python3 + selenium + chrome browser + chromedriver
 
 # Docker
 
+可直接 docker pull 获取已打好的完整镜像，直接使用
 docker pull huanggj/python3-selenium-chrome
 
 # python3
