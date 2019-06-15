@@ -22,6 +22,7 @@ https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 
 LATEST_RELEASE_VERSION = 
   https://chromedriver.storage.googleapis.com/LATEST_RELEASE
+  
 LATEST_RELEASE_URL = 
   http://chromedriver.storage.googleapis.com/$LATEST_RELEASE_VERSION/chromedriver_linux64.zip
 
