@@ -13,13 +13,14 @@ tag:3
 
 # chrome browser
 
-使用的版本是 75.0.3770.90-1
+最新稳定版 chrome browser
 https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 
 # chromedriver
 
-使用的是与chrome browser匹配的版本
-http://chromedriver.storage.googleapis.com/75.0.3770.90/chromedriver_linux64.zip
+最新稳定版 chromedriver（与浏览器版本匹配）
+LATEST_RELEASE_VERSION = https://chromedriver.storage.googleapis.com/LATEST_RELEASE
+LATEST_RELEASE_URL = http://chromedriver.storage.googleapis.com/$LATEST_RELEASE_VERSION/chromedriver_linux64.zip
 
 # 已安装python插件
 
