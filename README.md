@@ -1,9 +1,10 @@
 # docker-python3-selenium-chrome
-python3 + selenium + chrome browser + chromedriver
-
-# python3-selenium-chrome
 
 python3 + selenium + chrome browser + chromedriver
+
+# Docker
+
+docker pull huanggj/python3-selenium-chrome
 
 # python3
 
